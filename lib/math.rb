@@ -24,5 +24,6 @@ mod
 end
 
 def square_root(num)
-puts Math.sqrt(num)
+square =  Math.sqrt(num)
+square
 end
