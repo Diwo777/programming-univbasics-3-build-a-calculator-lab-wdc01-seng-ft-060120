@@ -9,7 +9,8 @@ subt
 end
 
 def division(num1, num2)
-puts num2 / num1
+divi = num2 / num1
+divi
 end
 
 def multiplication(num1, num2)
