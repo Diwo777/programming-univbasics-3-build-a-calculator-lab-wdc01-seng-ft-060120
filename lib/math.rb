@@ -14,7 +14,8 @@ divi
 end
 
 def multiplication(num1, num2)
-puts num1 * num2
+multi = num1 * num2
+multi
 end
 
 def modulo(num1, num2)
