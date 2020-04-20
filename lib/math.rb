@@ -9,7 +9,7 @@ subt
 end
 
 def division(num1, num2)
-divi = num2 / num1
+divi = num1 / num2
 divi
 end
 
